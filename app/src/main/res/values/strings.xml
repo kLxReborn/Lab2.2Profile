@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 2.2 Profile</string>
+    <string name="NameDisplay">Name: </string>
+    <string name="EmailDisplay">Email: </string>
+    <string name="EmailInputField">Email</string>
+    <string name="NameInput">Name</string>
+    <string name="SaveButton">Save</string>
+    <string name="Image">Image</string>
+    <string name="UpdateButton">UPDATE PROFILE</string>
+    <string name="PrivacyButton">PRIVACY STATEMENT</string>
+</resources>
